@@ -1,0 +1,7 @@
+                Backend
+----------------------------------------------------------
+1.Create database - MongoDB - To create db and collection
+2.Create server
+3.In server 
+        create package.json - npm init
+        create node modules - npm i express
